@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @owospace
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-jump off a cliff (respectfully) <3
+heya, i'm space i guess
+i do stuff. sometimes.
+i'll fill this out when i'm not being ✨ productive ✨
+
+reach me at biz(at)spce(dot)moe
 
 <!---
 owospace/owospace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
