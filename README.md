@@ -1,7 +1,7 @@
-heya, i'm space i guess
-i do stuff. sometimes.
-i'll fill this out when i'm not being ✨ productive ✨
-
+heya, i'm space i guess<br>
+i do stuff. sometimes.<br>
+i'll fill this out when i'm not being ✨ productive ✨<br>
+<br>
 reach me at biz(at)spce(dot)moe
 
 <!---
