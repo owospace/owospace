@@ -1,26 +1,7 @@
-<div>
+(๑′ᴗ‵๑)
 
-
-
-  <h2>About spce.moe</h2>
-
-
-
-  spce.moe is a domain for (my) personal use & projects.<br>
-
-  The intent of this website is simply to be a landing page<br>
-
-  whilst also serving some of my interests and hobbies.<br>
-
-  It's been a huge journey and lots of fun working with<br>
-
-  web design and frameworks. As well as hosting these to<br>
-
-  the public. (๑′ᴗ‵๑)<br>
-
-
-
-</div><br><br>
+i'm space. i will update this later.
+leave a message to: biz(at)spce.moe if you really need something.
 
 <!---
 owospace/owospace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
